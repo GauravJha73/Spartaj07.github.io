@@ -22,7 +22,7 @@ role: Product Design and Development Engineer
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Bosch Power Tools GmbH
-    url: https://www.example.com/
+    url: https://www.www.bosch-pt.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,8 +40,8 @@ profiles:
 education:
   - area: M.Sc. in Systems Engineering for Manufacturing
     institution: Otto-von-Guericke University
-    date_start: 2024-10-01
-    date_end: 2020-12-31
+    date_start: 2021-10-01
+    date_end: 2025-03-31
     summary: |
       GPA: 2.0/4.0
 
@@ -51,63 +51,81 @@ education:
       url: 'https://example.com'
   - area: Bachelor of Engineering in Mechanical Engineering
     institution: Vidyavardhini's College of Engineering and Technology
-    date_start: 2014-08-01
-    date_end: 2018-07-31
+    date_start: 2018-07-31
+    date_end: 2014-08-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 2.2/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: HSC in Science and Information Technology
+    institution: Thakur College of Science and Commerce
+    date_start: 2014-06-31
+    date_end: 2012-08-01
     summary: |
-      GPA: 3.4/4.0
+      Percentage: 85.62/100
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Intern Product Design and Development
+    company_name: Robert Bosch Power Tools GmbH
+    company_url: https://www.bosch-pt.com
+    company_logo: https://www.pngwing.com/de/search?q=Bosch-Logo
+    date_start: 2023-10-01
+    date_end: 2024-03-31
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      • Entworfen eines neuen Werkzeug griffkonzepts, CAD-Modellierung mit PTC Creo, Material
+      und BOM erstellung, Gedruckte SLS-Teile, getestet und analysierte Ergonomie mit Montage.
+      • Prototyping und Validierung von Adaptern zur Befestigung von Sensoren an
+      ProCore-Batterien für Werkzeug prüfungen.
+      • Durchführung einer Rool cause Analysis und verwendet MATLAB zur Analyse der fly off
+      speed, Energie, Aufprall und Flugrichtung des abgetrennten end piece, Ich schlug den Einbau
+      einer Aufprallwand vor.
+      • Durchgeführte FEM-Simulation zur Bruchanalyse von kritischen Bauteilversagen während
+      F-sample und modifiziertes Teiledesign mit Präsentation der Funktions und Risk analyse.
+      • Durchgeführt einer Wettbewerbsanalyse von Bosch Werkzeugen mit Werkzeugen der
+      Mitbewerber und erstellte eine Entwicklungsliste für fehlende Eigenschaften.
+      • Regelmäßig aktualisierte Entwicklungs details in PTC Windchill und Projektblättern.
+
+  - position: Product Design and development Engineer
+    company_name: Sujan Industries
+    company_url: https://www.sujanindustries.com/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-11-01
+    date_end: 2021-09-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      • Beteiligt an Produktdesign und Entwicklungsaktivitäten für verschiedene Konzepte und Komponenten mit Lösungen von der     Konzeptphase bis zur Produktionsfreigabe.
+      • Durchführung von Produktforschung, Benchmarking, Überprüfung von Anforderungen und Herstellbarkeit, Prototyping, Produktions planung und Trials, statische und dynamische Tests.
+      • 3D-CAD Modellierung von Teilen und Baugruppen, technische 2D-Zeichnungen gemäß
+        GD&T und Industrie standards, Erstellung von Stücklisten, Durchführung von FEMSimulationen
+        und Analysen.
+      • Beteiligung an Konstruktions besprechungen mit CFT-Teams und Behebung von
+        entwicklungsbezogenen Problemen/Bedenken mit detaillierten Lösungen.
+      • Dokumentation von Projektzeitplan, Zeichnungsrevisionen, Prozesslayouts, Montage und
+        Produktions planung, Auswertung von Testergebnissen, DVP, Qualitäts und 8D Berichten.
+      • Einführung von LEAN-Produktionsmethoden zur Optimierung von Layouts, Prozessen und
+        Kosten bei gleichzeitiger Verbesserung der Projekt-OEE um 28 %.
+      • Erlernte und angewendete Fähigkeiten: APQP, RFQ, analytisches Denken, DFM, Root
+        Cause Analysis, GD&T, 5 Whys, VAVE, Six Sigma, QC und kunden SOR.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: PTC Creo/ProE
+        description: 'CAD Modelling'
+        percent: 90
+        icon: devicon/ptc
+      - name: Solidworks 
+        description: 'CAD Modelling'
         percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
+        icon: devicon/solidworks
       - name: PyTorch
         description: ''
         percent: 40
@@ -132,10 +150,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Deutsch
+    percent: 30
+  - name: Hindi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -169,4 +187,8 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+As a Product Development Engineer Intern at Bosch, I am passionate about designing and creating innovative and user-friendly solutions for complex engineering problems. I have a strong background in mechanical engineering with current Master's in Systems Engineering and completed Bachelor in Mechanical Engineering from University of Mumbai and a Professional Mechanical Design certification from Dassault Systèmes.
+
+My Master's of Science in Systems Engineering for Manufacturing from Otto-von-Guericke University actively enhanced various skills and knowledge in product design and development, systems engineering, CAD, Industry 4.0 and digital engineering with excellent learnings from experienced professionals in the field. I am a dedicated team player and a fast learner with excellent communication and interpersonal skills.
+
+I have also gained valuable experience in the automotive industry, working as a Research and Development Engineer at SUJAN INDUSTRIES for 2.5 years. I was involved in the design and development of various products, using 3D CAD tools like PTC Creo, SOLIDWORKS and CATIA. I also participated in testing, analysis, and quality control of the products, ensuring compliance with industry standards and customer specifications.
