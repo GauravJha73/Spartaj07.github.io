@@ -10,7 +10,7 @@ first_name: Gaurav Lalan
 last_name: Jha
 
 # Status emoji
-status:
+status: ''
   icon: 🧑🏻‍🔧️
 
 # Is this the primary user of the site?
@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:gaurav.jha@st.ovgu.de'
+    url: mailto:gaurav.jha@st.ovgu.de
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Spartaj07
@@ -51,8 +51,8 @@ education:
       url: 'https://example.com'
   - area: Bachelor of Engineering in Mechanical Engineering
     institution: Vidyavardhini's College of Engineering and Technology
-    date_start: 2018-31-07
-    date_end: 2014-08-01
+    date_start: 2014-08-01
+    date_end: 2018-31-07
     summary: |
       GPA: 2.2/4.0
 
