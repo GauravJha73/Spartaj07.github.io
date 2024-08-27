@@ -79,18 +79,6 @@ work:
     date_start: 2023-10-01
     date_end: 2024-03-31
     summary: |
-        • Entworfen eines neuen Werkzeug griffkonzepts, CAD-Modellierung mit PTC Creo, Material
-      und BOM erstellung, Gedruckte SLS-Teile, getestet und analysierte Ergonomie mit Montage.
-      • Prototyping und Validierung von Adaptern zur Befestigung von Sensoren an
-      ProCore-Batterien für Werkzeug prüfungen.
-      • Durchführung einer Rool cause Analysis und verwendet MATLAB zur Analyse der fly off
-      speed, Energie, Aufprall und Flugrichtung des abgetrennten end piece, Ich schlug den Einbau
-      einer Aufprallwand vor.
-      • Durchgeführte FEM-Simulation zur Bruchanalyse von kritischen Bauteilversagen während
-      F-sample und modifiziertes Teiledesign mit Präsentation der Funktions und Risk analyse.
-      • Durchgeführt einer Wettbewerbsanalyse von Bosch Werkzeugen mit Werkzeugen der
-      Mitbewerber und erstellte eine Entwicklungsliste für fehlende Eigenschaften.
-      • Regelmäßig aktualisierte Entwicklungs details in PTC Windchill und Projektblättern.
 
   - position: Product Design and development Engineer
     company_name: Sujan Industries
@@ -99,6 +87,7 @@ work:
     date_start: 2018-11-01
     date_end: 2021-09-30
     summary: |
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
