@@ -22,7 +22,7 @@ role: Product Design and Development Engineer
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Bosch Power Tools GmbH
-    url: https://www.www.bosch-pt.com/
+    url: https://www.bosch-pt.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
