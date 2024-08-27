@@ -51,7 +51,7 @@ education:
       url: 'https://example.com'
   - area: Bachelor of Engineering in Mechanical Engineering
     institution: Vidyavardhini's College of Engineering and Technology
-    date_start: 2018-07-31
+    date_start: 2018-31-07
     date_end: 2014-08-01
     summary: |
       GPA: 2.2/4.0
@@ -62,7 +62,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: HSC in Science and Information Technology
     institution: Thakur College of Science and Commerce
-    date_start: 2014-06-31
+    date_start: 2014-30-06
     date_end: 2012-08-01
     summary: |
       Percentage: 85.62/100
@@ -78,8 +78,8 @@ work:
     company_logo: ''
     date_start: 2023-10-01
     date_end: 2024-03-31
-    summary: |2-
-      • Entworfen eines neuen Werkzeug griffkonzepts, CAD-Modellierung mit PTC Creo, Material
+    summary: |
+        • Entworfen eines neuen Werkzeug griffkonzepts, CAD-Modellierung mit PTC Creo, Material
       und BOM erstellung, Gedruckte SLS-Teile, getestet und analysierte Ergonomie mit Montage.
       • Prototyping und Validierung von Adaptern zur Befestigung von Sensoren an
       ProCore-Batterien für Werkzeug prüfungen.
@@ -97,21 +97,8 @@ work:
     company_url: https://www.sujanindustries.com/
     company_logo: ''
     date_start: 2018-11-01
-    date_end: 2021-09-31
+    date_end: 2021-09-30
     summary: |
-      • Beteiligt an Produktdesign und Entwicklungsaktivitäten für verschiedene Konzepte und Komponenten mit Lösungen von der     Konzeptphase bis zur Produktionsfreigabe.
-      • Durchführung von Produktforschung, Benchmarking, Überprüfung von Anforderungen und Herstellbarkeit, Prototyping, Produktions planung und Trials, statische und dynamische Tests.
-      • 3D-CAD Modellierung von Teilen und Baugruppen, technische 2D-Zeichnungen gemäß
-        GD&T und Industrie standards, Erstellung von Stücklisten, Durchführung von FEMSimulationen
-        und Analysen.
-      • Beteiligung an Konstruktions besprechungen mit CFT-Teams und Behebung von
-        entwicklungsbezogenen Problemen/Bedenken mit detaillierten Lösungen.
-      • Dokumentation von Projektzeitplan, Zeichnungsrevisionen, Prozesslayouts, Montage und
-        Produktions planung, Auswertung von Testergebnissen, DVP, Qualitäts und 8D Berichten.
-      • Einführung von LEAN-Produktionsmethoden zur Optimierung von Layouts, Prozessen und
-        Kosten bei gleichzeitiger Verbesserung der Projekt-OEE um 28 %.
-      • Erlernte und angewendete Fähigkeiten: APQP, RFQ, analytisches Denken, DFM, Root
-        Cause Analysis, GD&T, 5 Whys, VAVE, Six Sigma, QC und kunden SOR.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
