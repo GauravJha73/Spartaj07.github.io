@@ -75,7 +75,7 @@ work:
   - position: Intern Product Design and Development
     company_name: Robert Bosch Power Tools GmbH
     company_url: https://www.bosch-pt.com
-    company_logo: https://www.pngwing.com/de/search?q=Bosch-Logo
+    company_logo: ''
     date_start: 2023-10-01
     date_end: 2024-03-31
     summary: |2-
@@ -121,11 +121,11 @@ skills:
       - name: PTC Creo/ProE
         description: 'CAD Modelling'
         percent: 90
-        icon: devicon/ptc
+        icon: ''
       - name: Solidworks 
         description: 'CAD Modelling'
         percent: 80
-        icon: devicon/solidworks
+        icon: ''
       - name: PyTorch
         description: ''
         percent: 40
