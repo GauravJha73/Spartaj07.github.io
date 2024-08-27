@@ -192,3 +192,4 @@ As a Product Development Engineer Intern at Bosch, I am passionate about designi
 My Master's of Science in Systems Engineering for Manufacturing from Otto-von-Guericke University actively enhanced various skills and knowledge in product design and development, systems engineering, CAD, Industry 4.0 and digital engineering with excellent learnings from experienced professionals in the field. I am a dedicated team player and a fast learner with excellent communication and interpersonal skills.
 
 I have also gained valuable experience in the automotive industry, working as a Research and Development Engineer at SUJAN INDUSTRIES for 2.5 years. I was involved in the design and development of various products, using 3D CAD tools like PTC Creo, SOLIDWORKS and CATIA. I also participated in testing, analysis, and quality control of the products, ensuring compliance with industry standards and customer specifications.
+
